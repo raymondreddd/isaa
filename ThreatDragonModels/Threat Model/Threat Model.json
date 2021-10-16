@@ -20,8 +20,8 @@
                 "height": 100
               },
               "position": {
-                "x": 721,
-                "y": 269
+                "x": 708,
+                "y": 402
               },
               "angle": 0,
               "id": "bb5324e3-8b33-4858-8ec2-3865e33c9658",
@@ -41,7 +41,7 @@
                   "class": "element-shape hasOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "Server"
+                  "text": "Nodejs\nbackend"
                 },
                 ".element-text": {
                   "class": "element-text hasOpenThreats isInScope"
@@ -55,8 +55,8 @@
                 "height": 100
               },
               "position": {
-                "x": 323,
-                "y": 85
+                "x": 162,
+                "y": 6
               },
               "angle": 0,
               "id": "e7c86b71-6bf8-4697-9619-3c616f23402a",
@@ -76,7 +76,7 @@
                   "class": "element-shape hasOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "State\nmanagement"
+                  "text": "Firebase"
                 },
                 ".element-text": {
                   "class": "element-text hasOpenThreats isInScope"
@@ -90,8 +90,8 @@
                 "height": 80
               },
               "position": {
-                "x": 333,
-                "y": 417
+                "x": 215,
+                "y": 436
               },
               "angle": 0,
               "id": "67dbdffd-5c7d-4406-8c32-223c8fdefec3",
@@ -111,7 +111,7 @@
                   "class": "element-shape hasOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "backend server"
+                  "text": "Store redux"
                 },
                 ".element-text": {
                   "class": "element-text hasOpenThreats isInScope"
@@ -125,8 +125,8 @@
                 "height": 80
               },
               "position": {
-                "x": 662,
-                "y": 1
+                "x": 619,
+                "y": 11
               },
               "angle": 0,
               "id": "f0d59bdc-7445-41a7-b09b-4f7af6682804",
@@ -146,7 +146,7 @@
                   "class": "element-shape hasOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "DB"
+                  "text": "Database"
                 },
                 ".element-text": {
                   "class": "element-text hasOpenThreats isInScope"
@@ -160,8 +160,8 @@
                 "height": 80
               },
               "position": {
-                "x": 30,
-                "y": 171
+                "x": 39,
+                "y": 215
               },
               "angle": 0,
               "id": "31edf990-78e2-49bd-84a7-fbf08be2bafe",
@@ -181,7 +181,7 @@
                   "class": "element-shape hasOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "Web app"
+                  "text": "Mobile flutter app"
                 },
                 ".element-text": {
                   "class": "element-text hasOpenThreats isInScope"
@@ -272,7 +272,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "Https",
+                      "text": "Response",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -328,14 +328,19 @@
               "type": "tm.Boundary",
               "smooth": true,
               "source": {
-                "x": 181,
-                "y": 96
+                "x": 459,
+                "y": 13
               },
               "target": {
-                "x": 337,
-                "y": 238
+                "x": 573,
+                "y": 181
               },
-              "vertices": [],
+              "vertices": [
+                {
+                  "x": 598,
+                  "y": 72
+                }
+              ],
               "id": "072428da-6455-4268-a318-b7963f2414da",
               "z": 10,
               "attrs": {}
@@ -344,14 +349,19 @@
               "type": "tm.Boundary",
               "smooth": true,
               "source": {
-                "x": 738,
-                "y": 438
+                "x": 548,
+                "y": 533
               },
               "target": {
-                "x": 518,
-                "y": 320
+                "x": 569,
+                "y": 261
               },
-              "vertices": [],
+              "vertices": [
+                {
+                  "x": 472,
+                  "y": 356
+                }
+              ],
               "id": "1d88e3d1-86c5-4e00-a64e-d90f871aa716",
               "z": 11,
               "attrs": {}
